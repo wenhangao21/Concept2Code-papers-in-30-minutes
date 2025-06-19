@@ -1,6 +1,6 @@
 # Concept2Code: Papers in 30 Minutes
 
-Simplify AI concepts and papers through high-entropy extraction and code that directly aligns with each concept.
+Simplify AI concepts and papers, with code blocks accompanying each concept as you read.
 
 ## Table of Contents
 
