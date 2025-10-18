@@ -10,4 +10,4 @@ Simplify AI concepts and papers, with simple code blocks accompanying each conce
 
 #### [Mean Flow]
 - [Paper](https://arxiv.org/abs/2505.13447)
-- [Notebook](https://github.com/wenhangao21/Concept2Code-papers-in-30-minutes/blob/main/rectified_flow/Mean_flow.ipynb)
+- [Notebook](https://github.com/wenhangao21/Concept2Code-papers-in-30-minutes/blob/main/mean_flow/Mean_flow.ipynb)
